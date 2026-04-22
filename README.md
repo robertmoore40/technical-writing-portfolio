@@ -27,7 +27,7 @@ _Provides standardized writing and formatting rules to ensure consistency across
 
 ## B2B Copy
 
-### B2B Copy 1-1 Access Management
+### [B2B Copy 1-1 Access Management]([url](https://github.com/robertmoore40/technical-writing-portfolio/edit/main/B2B%20Copy%201-1%20Access%20Management))
 _B2B security copy focused on simplifying user and access management across cloud environments. Highlights real-time visibility, automated protection, and a more streamlined approach to managing users without added complexity._
 
 ### B2B Copy 1-2 Detection Response
