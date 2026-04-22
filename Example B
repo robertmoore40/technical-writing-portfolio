@@ -1,214 +1,121 @@
-# GMP Documentation Procedure
+# Laserfiche SQL Server Configuration & Management
 
-## 1. Responsibilities
+## 1. Overview
 
-### 1.1 Employees
-
-- Follow all ALCOA+ principles when documenting GMP activities.
-- Sign GMP activities (initials, full signature, or electronic signature) to attest completion exactly as instructed.
-- Log into electronic systems prior to signing GMP activities.
-- Report suspected GMP documentation or data integrity issues immediately.
-
-> **Note**
-> - Electronic signatures are legally binding.
-> - Login data identifies the individual making the entry. Exceptions require approval.
+This document defines the configuration, maintenance, and management requirements for SQL Server instances supporting Laserfiche systems.
 
 ---
 
-### 1.2 Quality Assurance (QA)
+## 2. Responsibilities
 
-- Approve all quality-related documents.
-- Approve or document review of all hand changes via:
-  - Countersignature and date, or
-  - Documented review
-- Evaluate hand changes for impact to:
-  - Product quality
-  - Processes
-  - Systems
-- Approve process-related hand changes confirming no impact.
-- Ensure all supporting documentation is:
-  - Referenced
-  - Cross-referenced
-  - Traceable
-- Validate clarification criteria.
-- Share responsibility with reviser for clarification accuracy.
+### 2.1 IT Administrators
 
-> **Note**
-> Training supervisors may perform QA responsibilities for training record changes.
+- Install and configure SQL Server environments.
+- Maintain database performance and availability.
+- Manage backups and recovery processes.
+- Apply patches and updates.
+- Monitor system health and storage capacity.
 
 ---
 
-### 1.3 Technical Support
+### 2.2 System Owners
 
-- Evaluate process-related hand changes for impact.
-- Ensure instructions are executable as written.
-
----
-
-## 2. Requirements
-
-### 2.1 General
-
-#### 2.1.1 Good Documentation Practices (ALCOA+)
-
-##### Attributable
-- Identify the individual and date of record creation.
-
-##### Legible
-- Handwritten entries must be readable.
-- Do not obscure or overwrite entries.
-- Electronic records must be human-readable.
-
-##### Contemporaneous
-- Record data at the time of activity.
-- Ensure traceability of all activities.
-
-##### Original
-- Retain original records or True Copies.
-- Document risks if originals cannot be retained.
-- Corrections must:
-  - Be dated and signed/initialed
-  - Include justification
-  - Preserve original data visibility
-
-##### Accurate
-- Follow procedures.
-- Ensure data reflects actual events.
-- Reference related investigations.
-
-> **Note**
-> Delays in recording must be justified and documented.
+- Ensure system usage aligns with business requirements.
+- Coordinate with IT for maintenance windows.
+- Review access and security requirements.
 
 ---
 
-#### Additional ALCOA+ Principles
+## 3. System Configuration
 
-##### Complete
-- Define and retain the full dataset.
+### 3.1 SQL Server Setup
 
-##### Consistent
-- Maintain chronological order.
-- Ensure synchronized timekeeping systems.
-
-##### Enduring
-- Use indelible ink.
-- Create True Copies for unstable media (e.g., thermal paper).
-
-##### Available
-- Ensure records are accessible at point of use.
-- Do not use unofficial recording methods (e.g., scratch paper).
+- Install supported SQL Server version.
+- Configure instance settings per vendor recommendations.
+- Enable required services for Laserfiche integration.
 
 ---
 
-### 2.1.2 Training
+### 3.2 Database Configuration
 
-- Complete training before performing GMP documentation.
-- Sign departmental signature log.
-
-> **Note**
-> Signature logs are required alongside electronic identity tracking.
-
----
-
-### 2.1.3 Document Control
-
-- Manage GMP instructions within a formal document system.
-- Do not use email or messaging for GMP instruction distribution.
-- Do not attach emails to GMP documentation.
+- Create and maintain Laserfiche databases.
+- Ensure proper collation and compatibility settings.
+- Configure:
+  - Recovery model
+  - File growth settings
+  - Storage allocation
 
 ---
 
-### 2.1.4 Documentation Integrity
+### 3.3 Security
 
-- Corrections must preserve original meaning.
-
-### 2.1.5 Sequential Recording
-
-- Record GMP activities in execution order.
-
-### 2.1.6 Signature Requirements
-
-- Each entry must include:
-  - Signature (initials, full, or electronic)
-  - Date
+- Implement role-based access control (RBAC).
+- Restrict administrative privileges.
+- Use secure authentication methods.
+- Audit database access regularly.
 
 ---
 
-### 2.1.8 Approval Independence
+## 4. Backup and Recovery
 
-- Document authors cannot be sole approvers.
+### 4.1 Backup Strategy
 
-### 2.1.9 Approval Authority
-
-- Approval level must align with document criticality.
-
----
-
-### 2.1.10 True Copies
-
-- True Copies may be used if:
-  - Verified by a second individual
-  - Filed in an approved document system
-- Originals may be destroyed after verification unless otherwise required.
-- Verification must be documented.
+- Perform:
+  - Full backups
+  - Differential backups
+  - Transaction log backups (if applicable)
+- Store backups in secure, redundant locations.
 
 ---
 
-### 2.1.11 Drawings
+### 4.2 Recovery
 
-- Modify GMP drawings per applicable procedures.
-
----
-
-### 2.1.12 Analytical Data
-
-- Document all data required to reconstruct analytical tests.
+- Validate backup integrity regularly.
+- Perform periodic restore testing.
+- Maintain documented recovery procedures.
 
 ---
 
-### 2.1.13 Raw Data Handling
+## 5. Maintenance
 
-- Do not record data on unofficial media.
-- Do not transcribe unofficial data into official records.
-- If discovered:
-  - Retain the data
-  - Perform impact assessment
+### 5.1 Routine Maintenance
 
----
-
-### 2.1.14 Record Retention
-
-- Retain all GMP documentation, including:
-  - Blank documents
-  - Partially completed records
-
-> **Note**
-> Blank documents may be destroyed if documented as "destroyed without use."
+- Rebuild or reorganize indexes.
+- Update statistics.
+- Monitor disk usage and performance metrics.
 
 ---
 
-### 2.1.15 Communication Documentation
+### 5.2 Monitoring
 
-- Document GMP instruction changes and training communication.
-
----
-
-### 2.1.16 Investigation Documentation
-
-- Document interviews conducted during investigations.
+- Track:
+  - CPU usage
+  - Memory utilization
+  - Disk I/O
+- Investigate anomalies promptly.
 
 ---
 
-### 2.1.17 Record Integrity
+## 6. Change Management
 
-Retain all components of GMP documentation, including:
-
-- Original instructions
-- Inserts
-- Raw data
+- Document all configuration changes.
+- Follow approval workflows before implementation.
+- Maintain change history for audit purposes.
 
 ---
 
-### 2.1.18 Training Compliance
+## 7. Documentation
 
-- Perform only tasks for which training is completed.
+- Maintain records of:
+  - System configuration
+  - Backup schedules
+  - Maintenance activities
+  - Access control changes
+
+---
+
+## 8. Compliance
+
+- Align with organizational IT policies.
+- Ensure data integrity and availability.
+- Support audit and regulatory requirements.
