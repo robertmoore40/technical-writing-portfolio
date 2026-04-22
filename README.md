@@ -27,8 +27,8 @@ _Provides standardized writing and formatting rules to ensure consistency across
 
 ## B2B Copy
 
-### B2B Copy 1-1
+### B2B Copy 1-1 Access Management
 _B2B security copy focused on simplifying user and access management across cloud environments. Highlights real-time visibility, automated protection, and a more streamlined approach to managing users without added complexity._
 
-### B2B Copy 1-2
+### B2B Copy 1-2 Detection / Response
 _B2B security copy outlining a layered detection and response approach. Highlights a balance of automated protection and human oversight, with an emphasis on visibility, adaptability, and reducing the need for constant manual intervention._
