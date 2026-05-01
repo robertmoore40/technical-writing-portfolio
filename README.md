@@ -3,26 +3,26 @@ Robert Moore's Technical Writing Portfolio.
 
 ## Pharma
 
-### Pharma 1-1 GMP Documentation 
+### Pharma 1-1 GMP Documentation [Link](B2B%20Copy%201-1%20Access%20Management.md)
 _Describes documentation practices aligned with Good Manufacturing Practices (GMP), ensuring traceability, accuracy, and regulatory compliance in pharmaceutical operations._
 
 ## Information Technology
 
-### IT 1-1 Server Configuration
+### IT 1-1 Server Configuration [Link](IT%201-1%20Server%20Configurations.md)
 _Documents baseline configuration standards for servers, including security hardening, access controls, and system setup procedures. Designed to ensure consistency, reliability, and compliance across environments._
 
-### IT 1-2 Incident Response Plan
+### IT 1-2 Incident Response Plan [Link](IT%201-2%20Incident%20Response%20Plan.md)
 _Details the processes for identifying, responding to, and recovering from security incidents. Includes roles and responsibilities, escalation paths, and communication protocols._
 
 ## Human Resources
 
-### HR 1-1 Mobile Device Policy
+### HR 1-1 Mobile Device Policy [Link](HR%201-1%20Mobile%20Device%20Policy.md)
 _Defines acceptable use, security requirements, and management expectations for employee-owned and company-issued mobile devices. Covers data protection, access control, and incident reporting to reduce organizational risk._
 
-### HR 1-2 Password Security Policy
+### HR 1-2 Password Security Policy [Link](HR%201-2%20Password%20Security%20Policy.md)
 _Outlines password creation, storage, and rotation requirements to strengthen account security. Includes guidance on multi-factor authentication, credential handling, and enforcement standards._
 
-### HR 1-3 Style Guiden
+### HR 1-3 Style Guide [Link](HR%201-3%20Style%20Guide.md)
 _Provides standardized writing and formatting rules to ensure consistency across internal and external documentation. Covers tone, terminology, grammar, and document structure._
 
 ## B2B Copy
