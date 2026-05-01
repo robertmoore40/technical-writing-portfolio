@@ -3,7 +3,7 @@ Robert Moore's Technical Writing Portfolio.
 
 ## Pharma
 
-### Pharma 1-1 GMP Documentation
+### Pharma 1-1 GMP Documentation [Link](B2B%20Copy%201-1%20Access%20Management.md)
 _Describes documentation practices aligned with Good Manufacturing Practices (GMP), ensuring traceability, accuracy, and regulatory compliance in pharmaceutical operations._
 
 ## Information Technology
