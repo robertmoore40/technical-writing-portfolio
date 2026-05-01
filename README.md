@@ -1,6 +1,13 @@
 # technical-writing-portfolio
 Robert Moore's Technical Writing Portfolio.
 
+Technical writer with a background in chemical engineering and 8+ years of experience delivering structured, high-impact documentation across fintech, pharmaceutical, and software environments. Specializes in APIs (REST/SOAP/GraphQL), structured authoring (Markdown, DITA/XML), and docs-as-code workflows, with a focus on clarity, scalability, and version-controlled content systems.
+
+Experienced in documentation governance, standardization, and transforming fragmented or legacy content into cohesive, audit-ready deliverables. Known for increasing documentation output and consistency through process design and system-level thinking.
+
+Integrates agentic AI and advanced AI-assisted tooling into documentation workflows to accelerate development, improve accuracy, and enable rapid iteration—delivering high-quality outputs across complex technical and regulated environments.
+
+
 ## Pharma
 
 ### Pharma 1-1 GMP Documentation [Link](Pharma%201-1%20GMP%20Documentation.md)
