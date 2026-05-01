@@ -1,5 +1,5 @@
 # technical-writing-portfolio
-Technical Writer | Building Scalable Documentation Systems with APIs, Docs-as-Code, and AI
+Robert Moore | Technical Writer | Building Scalable Documentation Systems with APIs, Docs-as-Code, and AI
 
 Technical writer with a background in chemical engineering and 8+ years of experience delivering structured, high-impact documentation across fintech, pharmaceutical, and software environments. Specializes in APIs (REST/SOAP/GraphQL), structured authoring (Markdown, DITA/XML), and docs-as-code workflows, with a focus on clarity, scalability, and version-controlled content systems.
 
