@@ -3,7 +3,7 @@ Robert Moore's Technical Writing Portfolio.
 
 ## Pharma
 
-### Pharma 1-1 GMP Documentation [Link](B2B%20Copy%201-1%20Access%20Management.md)
+### Pharma 1-1 GMP Documentation 
 _Describes documentation practices aligned with Good Manufacturing Practices (GMP), ensuring traceability, accuracy, and regulatory compliance in pharmaceutical operations._
 
 ## Information Technology
@@ -27,8 +27,8 @@ _Provides standardized writing and formatting rules to ensure consistency across
 
 ## B2B Copy
 
-### B2B Copy 1-1 Access Management
+### B2B Copy 1-1 Access Management [Link](B2B%20Copy%201-1%20Access%20Management.md)
 _B2B security copy focused on simplifying user and access management across cloud environments. Highlights real-time visibility, automated protection, and a more streamlined approach to managing users without added complexity._
 
-### B2B Copy 1-2 Detection Response
+### B2B Copy 1-2 Detection Response [Link](B2B%20Copy%201-2%20Detection%20Response.md)
 _B2B security copy outlining a layered detection and response approach. Highlights a balance of automated protection and human oversight, with an emphasis on visibility, adaptability, and reducing the need for constant manual intervention._
